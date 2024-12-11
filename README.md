@@ -32,7 +32,8 @@ Dataset: https://docs.google.com/spreadsheets/d/1lCEpVTYtGUYBD-_efe33KpcCRJv7xLK
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-![Screenshot 2024-12-11 10 20 49 AM](https://github.com/user-attachments/assets/12e8dc2d-c9c2-4a71-995a-ff7ffa8c0962)
+![Screenshot 2024-12-11 10 20 49 AM](https://github.com/user-attachments/assets/47403c62-85e4-4f00-a4d2-9620d58492a6)
+
 
 
 ## Video Demo
