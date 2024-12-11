@@ -21,11 +21,12 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
+Dataset: https://docs.google.com/spreadsheets/d/1lCEpVTYtGUYBD-_efe33KpcCRJv7xLKwD4Q126KwyRI/edit?gid=1638692842#gid=1638692842
 
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+- **name** (String) - name of the dog breed
+- **bredFor** (String) - what the dog is bred for
+- **minLS** (int) - minimum amount of years the dog is alive for
+- **maxLS** (int) - maximum amount of years the dog is alive for
 
 ## UML Diagram
 
@@ -48,3 +49,6 @@ Record a short video of your abstract art animation to display here on your READ
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+I chose a dog data which allows the audience to choose which dog breed they would want to adopt. In this project it gives the users a dog breed, what the dog is bred for, and the minimum and maximum lifespan of each dog breed. I used a for loop, math.random, and get methods. I also used instance variables and instance methods. When the user clicks run, the project will display all the information of a certain dog breed. The user can continue to run the project to get different results. 
+
